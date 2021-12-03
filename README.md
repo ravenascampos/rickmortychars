@@ -1,16 +1,37 @@
-# rickmortychars
+# 
 
 A new Flutter project.
 
-## Getting Started
+<h1 align="center"> Rick & Morty Chars</h1>
+<p align="center">
+  <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-imagens">Imagens do Projeto</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Sobre o projeto
+<p>Projeto desenvolvido para o Projeto Kode Start</p>
+<p>Aplicativo desenvolvido em Flutter que exibe uma lista de personagens do desenho Rick & Morty. Ao clicar em qualquer personagem, é apresentado um detalhamento do mesmo</p>
+<p>O conteúdo do aplicativo é alimentado pela The Rick and MOrty API</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Funcionalidades
+<p>Scroll horizontal da lista de personagens</p>
+<p>Card de personagem contendo nome, imagem, espécie, status e última localização conhecida</p>
+<p>Não se limita há apenas 20 personagens</p>
+<p>O personagem selecionado tem o seguinte detalhamento: nome, imagem, gênero, status, última localização, localização de origem e primeira aparição</p>
+<p>Campo de busca pelo nome parcial ou total do personagem</p>
+<p>Consumo da versão Rest da API</p>
+
+## Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Flutter](https://flutter.dev/docs)
+- [The Rick & Morty API](https://rickandmortyapi.com/)
+
+
+## Imagens do Projeto
+
