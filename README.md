@@ -1,6 +1,3 @@
-# 
-
-A new Flutter project.
 
 <h1 align="center"> Rick & Morty Chars</h1>
 <p align="center">
@@ -34,4 +31,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## Imagens do Projeto
+<img src="https://github.com/ravenascampos/rickmortychars/blob/master/Screenshot/photo_2021-12-02_20-51-28.jpg?raw=true"/>
+<img src="https://github.com/ravenascampos/rickmortychars/blob/master/Screenshot/photo_2021-12-02_20-52-23.jpg?raw=true"/>
+<img src="https://github.com/ravenascampos/rickmortychars/blob/master/Screenshot/photo_2021-12-02_20-52-26.jpg?raw=true"/>
+<img src="https://github.com/ravenascampos/rickmortychars/blob/master/Screenshot/photo_2021-12-02_20-52-29.jpg?raw=true"/>
+<img src="https://github.com/ravenascampos/rickmortychars/blob/master/Screenshot/photo_2021-12-02_20-52-32.jpg?raw=true"/>
+<img src="https://github.com/ravenascampos/rickmortychars/blob/master/Screenshot/photo_2021-12-02_20-54-50.jpg?raw=true"/>
 
